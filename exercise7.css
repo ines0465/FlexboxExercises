@@ -1,6 +1,8 @@
 /* Use display and flex-direction to solve this */
 
 #e7 .container {
+    display: flex;
+    flex-direction: row;
     height: 200px;
 }   
 
